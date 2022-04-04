@@ -1,0 +1,18 @@
+node.js 다운
+
+
+npm install --global yarn
+npm install package name
+
+
+yarn global add packagename  글로벌 add 순서 주의 바구면 global이라는 패키지가 설치됨
+axios
+sass?
+yarn add --dev packagename
+yarn create react-app name
+npx create-react-app name
+get-help Set-ExecutionPolicy
+Set-ExecutionPolicy RemoteSigned
+
+
+yarn add --dev node-sass

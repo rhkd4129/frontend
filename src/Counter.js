@@ -6,9 +6,9 @@ class Counter extends React.Component{
     static defaultProps ={
         color:'red',
     }
-    static propTypes = {
-        color:this.propTypes.string,
-    }
+    // static propTypes = {
+    //     color:this.propTypes.string,
+    // }
     state ={
         value:0,
         color:this.props.color,
